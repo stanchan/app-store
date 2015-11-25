@@ -1,7 +1,7 @@
 store:
   title: Demo Sample Applications
   contact: Stan Chan <stanchan@gmail.com>
-  icon: https://github.com/stanchan/app-store/icon/transparent-icon.png
+  icon: http://labs.chanfx.com/yum/app-store/icons/transparent-icon.png
 
 - name: Jenkins
   id: jenkins
@@ -13,5 +13,5 @@ store:
   commit: stackato-v3
   src: https://github.com/stanchan/stackato-jenkins.git
   info: https://github.com/stanchan/stackato-jenkins/#readme
-  icon: https://github.com/stanchan/app-store/icon/jenkins.png
+  icon: http://labs.chanfx.com/yum/app-store/icons/jenkins.png
   mem: 1024
