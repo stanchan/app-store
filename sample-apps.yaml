@@ -1,0 +1,17 @@
+store:
+  title: Demo Sample Applications
+  contact: Stan Chan <stanchan@gmail.com>
+  icon: https://github.com/stanchan/app-store/icon/transparent-icon.png
+
+- name: Jenkins
+  id: jenkins
+  desc: Jenkins is an open source continuous integration tool written in Java.
+  framework: java_web
+  runtime: java6
+  services: filesystem
+  license: MIT
+  commit: stackato-v3
+  src: https://github.com/stanchan/stackato-jenkins.git
+  info: https://github.com/stanchan/stackato-jenkins/#readme
+  icon: https://github.com/stanchan/app-store/icon/jenkins.png
+  mem: 1024
