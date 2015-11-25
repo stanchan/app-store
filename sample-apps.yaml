@@ -3,6 +3,7 @@ store:
   contact: Stan Chan <stanchan@gmail.com>
   icon: http://labs.chanfx.com/yum/app-store/icons/transparent-icon.png
 
+apps:
 - name: Jenkins
   id: jenkins
   desc: Jenkins is an open source continuous integration tool written in Java.
